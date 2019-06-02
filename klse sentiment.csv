@@ -1,0 +1,460 @@
+time,counter,text,clean,sentiment,polarity
+8:02AM,  ,Forbid of Direct Business Transaction (DBT) Due to Rule 10.10(1) ,Forbid Direct Business Transaction Rule,"Sentiment(polarity=0.1, subjectivity=0.4)",1
+6:48PM,A50CHIN-C5   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,A50CHIN-C8   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,A50CHIN-C9   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,A50CHIN-H3   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,A50CHIN-H4   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:28PM,AAX   ,Redesignation of ANTHONY FRANCIS FERNANDES As Others ,Redesignation ANTHONY FRANCIS FERNANDES Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:59PM,AAX-C8   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+9:07AM,ABFMY1   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+6:07PM,ABMB   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:07PM,ABMB   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:49PM,ADVCON   ,LETTER OF AWARD (LOA) ,LETTER AWARD,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:33PM,ADVENTA   ,Financial year end net profit 0.140 million (decreased 79.53%) ,Financial year profit million decreased,"Sentiment(polarity=-0.2, subjectivity=0.35)",-1
+6:35PM,AIRASIA   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,AIRASIA   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:47PM,AIRASIAC50   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:58PM,AIRASIAC55   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:58PM,AIRASIAC56   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:05PM,AIRPORT   ,"EMPLOYEES PROVIDENT FUND BOARD (1,960,700 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:13PM,AJIYA   ,"900,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,ALAQAR   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,AMBANK   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:38PM,ANCOM   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,ANNJOO-CE   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:44PM,APFT   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:44PM,APFT   ,Appointment of AHMAD SAID BIN HAMDAN As Director ,Appointment AHMAD SAID HAMDAN Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:43PM,APFT   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:43PM,APFT   ,Resignation of TAN NYAP KEONG @ TONY TAN As Others ,Resignation NYAP KEONG TONY Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:43PM,APFT   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:43PM,APFT   ,Resignation of TAN NYAP KEONG @ TONY TAN As Director ,Resignation NYAP KEONG TONY Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:43PM,APFT   ,Appointment of AHMAD SAID BIN HAMDAN As Others ,Appointment AHMAD SAID HAMDAN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,ARMADA   ,"EMPLOYEES PROVIDENT FUND BOARD (118,700 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,ARMADA   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (5,000,000 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,ARMADA-C28   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:07PM,ARREIT   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:17PM,ASDION   ,"TEY POR CHEN (56,900 units Disposed) ",CHEN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,ASIAFLE   ,"AMANAHRAYA TRUSTEES BERHAD-AMANAH SAHAM BUMIPUTERA (250,000 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,ASIAPLY   ,MULTIPLE PROPOSALS ,MULTIPLE PROPOSALS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:09PM,ASTRO   ,"EMPLOYEES PROVIDENT FUND BOARD (EPF) (925,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:34PM,ATLAN   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:15PM,ATRIUM   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:52PM,AXIATA   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:55PM,AXIATA   ,"EMPLOYEES PROVIDENT FUND BOARD (5,820,400 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:48PM,AXIATA   ,"EMPLOYEES PROVIDENT FUND BOARD (7,597,900 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:44PM,AXIATA   ,"EMPLOYEES PROVIDENT FUND BOARD (3,055,515 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:27PM,AXIATA   ,"EMPLOYEES PROVIDENT FUND BOARD (467,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:23PM,AXIATA   ,"EMPLOYEES PROVIDENT FUND BOARD (3,351,700 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:17PM,AXIATA   ,"EMPLOYEES PROVIDENT FUND BOARD (2,900,000 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:31PM,AXREIT   ,Redesignation of TUNKU DATO' SERI SHAHABUDDIN BIN TUNKU BESAR BURHANUDDIN As Others ,Redesignation TUNKU DATO SERI SHAHABUDDIN TUNKU BESAR BURHANUDDIN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:31PM,AXREIT   ,Redesignation of MOHD SHARIF BIN HJ YUSOF As Others ,Redesignation MOHD SHARIF YUSOF Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:30PM,AXREIT   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:30PM,AXREIT   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:23PM,BAHVEST   ,WINDING UP / RECEIVER & MANAGER / RESTRAINING ORDER / SPECIAL ADMINISTRATOR ,WINDING RECEIVER MANAGER RESTRAINING ORDER SPECIAL ADMINISTRATOR,"Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)",1
+5:26PM,BAUTO   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (279,700 units Acquired) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:20PM,BAUTO   ,"EMPLOYEES PROVIDENT FUND BOARD (1,980,700 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:05PM,BAUTO-CR   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:10PM,BIMB   ,"EMPLOYEES PROVIDENT FUND BOARD (1,000,000 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+10:19AM,BINACOM   ,1Q net profit 1.603 million ,profit million,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:48PM,BIOHLDG   ,"HON TIAN KOK@WILLIAM (500,000 units Acquired) ",TIAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:46PM,BIOHLDG   ,"HON TIAN KOK @ WILLIAM (500,000 units Acquired) ",TIAN WILLIAM units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:55PM,BORNOIL   ,Nine-month net profit 11.713 million (decreased 68.07%) ,Nine month profit million decreased,"Sentiment(polarity=-0.4, subjectivity=0.7)",-1
+5:13PM,BSTEAD   ,"LEMBAGA TABUNG ANGKATAN TENTERA (465,000 units Acquired) ",LEMBAGA TABUNG ANGKATAN TENTERA units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:08PM,BTM   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,CAB   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,CAB   ,MEMORANDUM OF UNDERSTANDING ,MEMORANDUM UNDERSTANDING,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:37PM,CAB   ,MEMORANDUM OF UNDERSTANDING ,MEMORANDUM UNDERSTANDING,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:03PM,CANONE   ,Appointment of FOO KEE FATT As Others ,Appointment FATT Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,CANONE   ,Redesignation of RAZMI BIN ALIAS As Others ,Redesignation RAZMI ALIAS Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:50PM,CANONE   ,Resignation of YEOH JIN BENG As Others ,Resignation YEOH BENG Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:48PM,CANONE   ,Appointment of FOO KEE FATT As Others ,Appointment FATT Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:14PM,CARING   ,Resignation of TAN THIAM HOCK As Others ,Resignation THIAM HOCK Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:35PM,CBIP   ,SECOND INTERIM SINGLE TIER DIVIDEND OF MYR0.03 ,SECOND INTERIM SINGLE TIER DIVIDEND,"Sentiment(polarity=-0.03571428571428571, subjectivity=0.10714285714285714)",-1
+5:16PM,CHEETAH   ,"LEMBAGA TABUNG HAJI (5,500,000 units Disposed) ",LEMBAGA TABUNG HAJI units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,CIMB   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (2,000,000 units Disposed) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,CIMB   ,"EMPLOYEES PROVIDENT FUND BOARD (571,100 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,CIMB   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (1,000,000 units Disposed) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,CIMB   ,"EMPLOYEES PROVIDENT FUND BOARD (2,583,900 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,CIMB   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (482,800 units Transacted) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,CIMB   ,"EMPLOYEES PROVIDENT FUND BOARD (8,131,000 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,CIMB-C23   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:06PM,CIMBA40   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+1:15PM,CIMBA40   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+7:05PM,CIMBC50   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+1:15PM,CIMBC50   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:24PM,CMMT   ,Resignation of JASON LEOW JUAN THONG As Director ,Resignation JASON LEOW JUAN THONG Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,CMMT   ,Appointment of (TA) TAY BOON HWEE As Director ,Appointment BOON HWEE Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:20PM,CMMT   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:53PM,CMSB   ,Redesignation of RICHARD ALEXANDER JOHN CURTIS As Others ,Redesignation RICHARD ALEXANDER JOHN CURTIS Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:53PM,CMSB   ,Others of GOH CHII BING As Others ,Others CHII BING Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:52PM,CMSB   ,Others of ISAAC LUGUN As Others ,Others ISAAC LUGUN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:52PM,CMSB   ,MEDIA RELEASE DATED ,MEDIA RELEASE DATED,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:35PM,CMSB   ,"DATO SRI MAHMUD ABU BEKIR TAIB (681,700 units Disposed) ",DATO MAHMUD BEKIR TAIB units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:48PM,CNI   ,Appointment of YEE KEE BING As Others ,Appointment BING Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:29PM,CWG   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:29PM,CWG   ,"KHOR SAY BENG (1,853,650 units Transacted) ",KHOR BENG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:29PM,CWG   ,"KHOR SAY BENG (2,152,100 units Transacted) ",KHOR BENG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:33PM,CYPARK   ,Financial year end net profit 57.603 million (increased 11.39%) ,Financial year profit million increased,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:08PM,DAIBOCI   ,"409,600 units of treasury shares sold ",units treasury shares sold,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:03PM,DBE   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:45PM,DESTINI   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,DESTINI   ,"ROZABIL @ ROZAMUJIB BIN ABDUL RAHMAN (10,000,000 units Acquired) ",ROZABIL ROZAMUJIB ABDUL RAHMAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:11PM,DESTINI   ,"ROZABIL @ ROZAMUJIB BIN ABDUL RAHMAN (10,000,000 units Acquired) ",ROZABIL ROZAMUJIB ABDUL RAHMAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,DIALOG   ,"EMPLOYEES PROVIDENT FUND BOARD (1,307,500 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:42PM,DIGI   ,"EMPLOYEES PROVIDENT FUND BOARD (3,510,000 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+9:44AM,DNONCE   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,DPHARMA   ,"YAYASAN PELABURAN BUMIPUTRA (130,745,066 units Acquired) ",YAYASAN PELABURAN BUMIPUTRA units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,DPHARMA   ,"PERMODALAN NASIONAL BERHAD (130,745,066 units Acquired) ",PERMODALAN NASIONAL BERHAD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:33PM,DRBHCOM   ,"EMPLOYEES PROVIDENT FUND BOARD (758,500 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:58PM,DRBHCOMC36   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,DSONIC-CX   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,DYNACIA   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:23PM,E&O   ,"100,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:19PM,ECONBHD   ,"ONG POAY WAH@CHAN POAY WAH (900,000 units Transacted) ",POAY POAY units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:19PM,ECONBHD   ,"ROSLI BIN MOHAMED NOR (187,500 units Transacted) ",ROSLI MOHAMED units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,"THE CHENG ENG (218,928,013 units Transacted) ",CHENG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,"PANG SAR (175,200,007 units Transacted) ",PANG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,"KRISHNAN A/L C K MENON (150,000 units Transacted) ",KRISHNAN MENON units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,"PANG SAR (175,200,007 units Transacted) ",PANG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,"THE KUN ANN (150,000 units Transacted) ",units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,ECONBHD   ,"THE CHENG ENG (218,928,013 units Transacted) ",CHENG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:19PM,EDEN   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:19PM,EDEN   ,Resignation of FAKHRI YASSIN BIN MAHIADDIN As Others ,Resignation FAKHRI YASSIN MAHIADDIN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:18PM,EDEN   ,Resignation of FAKHRI YASSIN BIN MAHIADDIN As Director ,Resignation FAKHRI YASSIN MAHIADDIN Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:18PM,ELSOFT   ,Appointment of AGATHA FOO TET SIN As Others ,Appointment AGATHA Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:28PM,ESCERAM   ,MATERIAL LITIGATION ,MATERIAL LITIGATION,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:43PM,EURO   ,MATERIAL LITIGATION ,MATERIAL LITIGATION,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:44PM,EWINT-CA   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:44PM,EWINT-CB   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:44PM,EWINT-CC   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:44PM,EWINT-CD   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:47PM,FBMKLCI-C1S   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:48PM,FBMKLCI-C1T   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:06PM,FBMKLCI-C3A   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:46PM,FBMKLCI-EA   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+6:45PM,FBMKLCI-H2U   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:47PM,FBMKLCI-H2V   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:06PM,FBMKLCI-H4C   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:31PM,FGV   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:36PM,FGV   ,Appointment of NESADURAI KALANITHI As Director ,Appointment NESADURAI KALANITHI Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:36PM,FGV   ,Resignation of ABD RASHID BIN ATAN As Joint Secretary ,Resignation RASHID ATAN Joint Secretary,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,FGV-C37   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:22PM,FIHB   ,"41,200 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,GAMUDA   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+3:56PM,GDEX   ,GDEX - Notice of Book Closure ,GDEX Notice Book Closure,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,GDEX-CF   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:09PM,GENETEC   ,"CHEN KHAI VOON (60,000 units Disposed) ",CHEN KHAI VOON units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:08PM,GENETEC   ,"CHEN KHAI VOON (60,000 units Disposed) ",CHEN KHAI VOON units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:08PM,GENETEC   ,"KVC CORPORATION SDN BHD (60,000 units Disposed) ",CORPORATION units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:37PM,GENETEC   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,GENM   ,Renaming of Audit Committee to Audit and Risk Management Committee ,Renaming Audit Committee Audit Risk Management Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,GENM   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:07PM,GENM-C24   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,GENM-C26   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,GENP   ,Redesignation of MOHD ZAHIDI BIN HJ ZAINUDDIN As Others ,Redesignation MOHD ZAHIDI ZAINUDDIN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,GENP   ,Redesignation of QUAH CHEK TIN As Others ,Redesignation QUAH CHEK Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:05PM,GENP   ,Appointment of YONG CHEE KONG As Others ,Appointment YONG CHEE KONG Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:05PM,GENP   ,RENAMING OF AUDIT COMMITTEE TO AUDIT AND RISK MANAGEMENT COMMITTEE ,RENAMING AUDIT COMMITTEE AUDIT RISK MANAGEMENT COMMITTEE,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,GENTING   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:05PM,GENTINGC42   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:20PM,GLBHD   ,Resignation of LIM WAI WENG As Others ,Resignation WENG Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:16PM,GLBHD   ,Resignation of LIM WAI WENG As Joint Secretary ,Resignation WENG Joint Secretary,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:36PM,GLOMAC   ,"10,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:43PM,GLOMAC   ,"77,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:27PM,GOLDETF   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+3:55PM,GOLDETF   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+2:37PM,GOLDETF   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+11:00AM,GOLDETF   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+9:39AM,GOLDETF   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:34PM,GRANFLO   ,"60,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:54PM,GTRONIC   ,"WISERITE SDN BHD (116,000 units Transacted) ",WISERITE units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,GTRONIC   ,"MALAYSIAN TECHNOLOGY DEVELOPMENT SDN BHD (2,016,000 units Transacted) ",MALAYSIAN TECHNOLOGY DEVELOPMENT units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,GTRONIC   ,"GENERAL PRODUCE AGENCY SDN BERHAD (2,016,000 units Transacted) ",GENERAL PRODUCE AGENCY BERHAD units Transacted,"Sentiment(polarity=0.05000000000000002, subjectivity=0.5)",1
+5:53PM,GTRONIC   ,"GOOI MEI HOON (2,016,000 units Transacted) ",GOOI HOON units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,GTRONIC   ,"NG KWENG CHONG (2,016,000 units Transacted) ",KWENG CHONG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,GTRONIC   ,"WISERITE SDN BHD (1,900,000 units Disposed) ",WISERITE units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,GTRONIC   ,"NG KWENG CHONG HOLDINGS SENDIRIAN BERHAD (2,016,000 units Transacted) ",KWENG CHONG HOLDINGS SENDIRIAN BERHAD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:53PM,GTRONIC   ,"NG KWENG CHONG (2,016,000 units Transacted) ",KWENG CHONG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:27PM,HARTA   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:32PM,HHGROUP   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:32PM,HHGROUP   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:38PM,HHGROUP   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,HIGHTEC   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,HIGHTEC   ,Financial year end net profit 5.690 million (increased 66.42%) ,Financial year profit million increased,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:05PM,HLBANK   ,"EMPLOYEES PROVIDENT FUND BOARD (365,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:31PM,HLFG   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:33PM,HLT   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:31PM,HLT   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:28PM,HLT   ,"YAU MING TECK (4,168,800 units Transacted) ",MING TECK units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:26PM,HLT   ,"YAU MING TECK (2,779,200 units Transacted) ",MING TECK units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:24PM,HLT   ,"WONG KOON WAI (135,000 units Transacted) ",WONG KOON units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:23PM,HLT   ,"WONG KOON WAI (90,000 units Transacted) ",WONG KOON units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,HLT   ,"WONG WAI TZING (172,500 units Transacted) ",WONG TZING units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:19PM,HLT   ,"WONG WAI TZING (115,000 units Transacted) ",WONG TZING units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,HLT   ,"CHAN YOKE CHUN (138,856,950 units Transacted) ",CHAN YOKE CHUN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,HLT   ,"CHAN YOKE CHUN (92,571,300 units Transacted) ",CHAN YOKE CHUN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,HLT   ,"CHAN YOKE CHUN (92,571,300 units Transacted) ",CHAN YOKE CHUN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,HLT   ,"WONG KOK WAH (138,856,950 units Transacted) ",WONG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:09PM,HLT   ,"WONG KOK WAH (92,571,300 units Transacted) ",WONG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,HLT   ,"WONG KOK WAH (92,571,300 units Transacted) ",WONG units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+2:31PM,HLT   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:35PM,HLT-WA   ,Profile for Securities of PLC ,Profile Securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+11:02AM,HLT-WA   ,"HLT-WA : ISSUE OF 199,091,998 WARRANTS IN HLT (WARRANTS) ON THE BASIS OF ",ISSUE WARRANTS WARRANTS BASIS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,HSI-C1N   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,HSI-C1O   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,HSI-H2P   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,HSI-H2Q   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,HSPLANT   ,"LEMBAGA TABUNG HAJI (110,800 units Acquired) ",LEMBAGA TABUNG HAJI units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:48PM,HTPADU   ,Resignation of MOHAMED ARIFFIN BIN ATON As Others ,Resignation MOHAMED ARIFFIN ATON Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:09PM,HUBLINE   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:02PM,HUBLINE   ,"IBRAHIM BIN BAKI (2,010,000 units Acquired) ",IBRAHIM BAKI units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:02PM,HUBLINE   ,"IBRAHIM BIN BAKI (2,010,000 units Acquired) ",IBRAHIM BAKI units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+3:58PM,IBRACO   ,IBRACO - Notice of Book Closure ,IBRACO Notice Book Closure,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:18PM,IGBB-PA   ,Dividend of 2% (based on the issue price of RM1.00) per RCPS ,Dividend based issue price RCPS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,IGBB-PA   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,IHH   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:19PM,IHH   ,"EMPLOYEES PROVIDENT FUND BOARD (1,106,800 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:06PM,IHH-C3   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:06PM,IJM-C5   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,INARI   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (1,906,400 units Transacted) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,INARI   ,"EMPLOYEES PROVIDENT FUND BOARD (603,500 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,INARI-C3   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:04PM,INARI-CZ   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,INIX   ,1Q net loss 0.740 million (decreased 72.47%) ,loss million decreased,"Sentiment(polarity=-0.4, subjectivity=0.7)",-1
+5:06PM,INTA   ,Appointment of ROSHITA BINTI SAHADAN As Director ,Appointment ROSHITA BINTI SAHADAN Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:43PM,IOIPG   ,"EMPLOYEES PROVIDENT FUND BOARD (25,000 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,JERASIA   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,JERASIA   ,"MOHD HANIFF BIN ABD AZIZ (50,000 units Disposed) ",MOHD HANIFF AZIZ units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:02PM,JERASIA   ,"MOHD HANIFF BIN ABD AZIZ (50,000 units Disposed) ",MOHD HANIFF AZIZ units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,JFTECH   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:01PM,JHM   ,General Meetings: Notice of Meeting ,General Meetings Notice Meeting,"Sentiment(polarity=0.05000000000000002, subjectivity=0.5)",1
+5:15PM,JIANKUN   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:23PM,K1   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,KAB   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,KAB   ,"TONG SIUT MOI (100,000 units Disposed) ",TONG SIUT units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:09PM,KAREX   ,"ARSHAD BIN AYUB (80,000 units Acquired) ",ARSHAD AYUB units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,KAREX   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,KAREX-C2   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:18PM,KHIND   ,Tax Exempt Interim Dividend of 1 Sen ,Exempt Interim Dividend,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:18PM,KHIND   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:17PM,KINSTEL   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,KLCC   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (56,400 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,KLCC   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (56,400 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:24PM,KOMARK   ,1H net loss 3.681 million (decreased 61.67%) ,loss million decreased,"Sentiment(polarity=-0.4, subjectivity=0.7)",-1
+5:21PM,KOSSAN   ,"EMPLOYEES PROVIDENT FUND BOARD (412,200 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,KPOWER   ,"SSF HOME BUILDER SDN BHD (1,080,700 units Acquired) ",HOME BUILDER units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,LAFMSIA   ,"EMPLOYEES PROVIDENT FUND BOARD (65,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:00PM,LBS   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (268,300 units Acquired) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,LCTITAN-CC   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,LCTITAN-CD   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,LCTITAN-CE   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:37PM,LEESK   ,"LEE KONG SIM (4,000,000 units Acquired) ",KONG units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,LITRAK   ,Retirement of RICHARD LIM KIM ONG As Coo ,Retirement RICHARD,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,LITRAK   ,Appointment of STEPHEN LOW CHEE WENG As Cf ,Appointment STEPHEN CHEE WENG,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,MAHSING   ,EMPLOYEES PROVIDENT FUND BOARD (EPF) (1000000 units Acquired) ,EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,MALAKOF-C1   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,MAYBANK   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+4:36PM,MAYBANK   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+4:36PM,MAYBANK   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (3,000,000 units Acquired) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+4:36PM,MAYBANK   ,"EMPLOYEES PROVIDENT FUND BOARD (5,143,100 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:24PM,MBWORLD   ,Nine-month net profit 19.607 million (increased 144.26%) ,Nine month profit million increased,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:49PM,MEDIA   ,"MORGAN STANLEY & CO. LLC (5,961,800 units Acquired) ",MORGAN STANLEY units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:05PM,METFAPA   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+1:15PM,METFAPA   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+7:06PM,METFSID   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+1:15PM,METFSID   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:17PM,MFCB   ,Appointment of FOO WEN YUNN As Others ,Appointment YUNN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,MFCB   ,Retirement of YONG LAI SIM As Others ,Retirement YONG Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,MFCB-CA   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,MFLOUR   ,Appointment of LIM PANG BOON As Executive Director ,Appointment PANG BOON Executive Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:58PM,MILUX   ,Redesignation of HAJI MOHD ANUAR BIN HAJI MOHD HANADZLAH As Others ,Redesignation HAJI MOHD ANUAR HAJI MOHD HANADZLAH Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:58PM,MILUX   ,Redesignation of HO PUI HOLD As Others ,Redesignation HOLD Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,MINDA   ,MULTIPLE PROPOSALS ,MULTIPLE PROPOSALS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:14PM,MISC   ,"EMPLOYEES PROVIDENT FUND BOARD (96,200 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:13PM,MISC   ,"EMPLOYEES PROVIDENT FUND BOARD (420,000 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,MISC   ,"EMPLOYEES PROVIDENT FUND BOARD (368,800 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,MISC   ,"EMPLOYEES PROVIDENT FUND BOARD (117,900 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:09PM,MISC   ,"EMPLOYEES PROVIDENT FUND BOARD (2,417,000 units Disposed) ",EMPLOYEES PROVIDENT FUND BOARD units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:26PM,MMCCORP   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,MNRB   ,Appointment of GEORGE A/L OOMMEN As Others ,Appointment GEORGE OOMMEN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,MNRB   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (99,000 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:22PM,MPCORP   ,PRACTICE NOTE 17 / GUIDANCE NOTE 3 ,PRACTICE NOTE GUIDANCE NOTE,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:59PM,MRCB-C16   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:49PM,MSC   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:48PM,MSC   ,"ROBERT TEO KENG TUAN (4,000 units Acquired) ",ROBERT KENG TUAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,MSM   ,"EMPLOYEES PROVIDENT FUND BOARD (22,800 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,MSM   ,Resignation of ABD RASHID BIN ATAN As Joint Secretary ,Resignation RASHID ATAN Joint Secretary,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:23PM,MUH   ,General Meetings: Outcome of Meeting ,General Meetings Outcome Meeting,"Sentiment(polarity=0.05000000000000002, subjectivity=0.5)",1
+6:07PM,MUHIBAH-CD   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:46PM,MYEG-C13   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:46PM,MYEG-C14   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:59PM,MYEG-C19   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:06PM,MYETFDJ   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+7:07PM,MYETFID   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
+5:00PM,MYNEWS   ,"KUMPULAN WANG PERSARAAAN (300,000 units Acquired) ",KUMPULAN WANG PERSARAAAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:00PM,MYNEWS   ,"EMPLOYEES PROVIDENT FUND BOARD (408,600 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:00PM,MYNEWS   ,"EMPLOYEES PROVIDENT FUND BOARD (39,740,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,NETX   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+1:56PM,NETX   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:05PM,NEXGRAM   ,1Q net loss 2.338 million (increased 5.36%) ,loss million increased,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,NGGB   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:52PM,NWP   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:39PM,OCK   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:39PM,OCK   ,First Interim Single Tier Dividend of 1.0 sen ,First Interim Single Tier Dividend,"Sentiment(polarity=0.08928571428571429, subjectivity=0.2738095238095238)",1
+5:20PM,OCNCASH   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) (Amended) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS Amended,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+11:45AM,OLDTOWN   ,TAKE-OVERS & MERGERS (PARAGRAPH/RULE 9.19 (47A)) ,TAKE OVERS MERGERS PARAGRAPH RULE,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,OLDTOWN-CA   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,OMESTI   ,EMPLOYEES' SHARE GRANT PLAN PURSUANT TO THE LONG-TERM INCENTIVE PLAN ,EMPLOYEES SHARE GRANT PLAN PURSUANT LONG TERM INCENTIVE PLAN,"Sentiment(polarity=-0.05, subjectivity=0.4)",-1
+5:39PM,OPCOM   ,"LT JEN DATO' SERI PANGLIMA ZAINI BIN HJ MOHD SAID SP (B) (20,000 units Acquired) ",DATO SERI PANGLIMA ZAINI MOHD SAID units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:36PM,OPCOM   ,"CHHOA KWANG HUA (15,000 units Acquired) ",CHHOA KWANG units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:36PM,OPCOM   ,"MUKHRIZ MAHATHIR (211,400 units Disposed) ",MUKHRIZ MAHATHIR units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,ORIENT   ,"STANDARD LIFE ABERDEEN PLC AND ITS SUBSIDIARIES (1,254,000 units Disposed) ",STANDARD LIFE ABERDEEN SUBSIDIARIES units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,ORIENT   ,"ABERDEEN ASSET MANAGEMENT ASIA LIMITED (208,400 units Disposed) ",ABERDEEN ASSET MANAGEMENT ASIA LIMITED units Disposed,"Sentiment(polarity=-0.07142857142857142, subjectivity=0.14285714285714285)",-1
+5:46PM,ORION   ,Resignation of MOHAMED RIDZUAN BIN NOR MD As Director ,Resignation MOHAMED RIDZUAN Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+7:00PM,OSKVI   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:44PM,PANSAR   ,"LING LEE CHUON @ JAMES LING CHUNG (53,000 units Acquired) ",LING CHUON JAMES LING CHUNG units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,PARAMON   ,INCORPORATION OF A WHOLLY-OWNED SUBSIDIARY - PARAMOUNT CAPITAL RESOURCES ,INCORPORATION WHOLLY OWNED SUBSIDIARY PARAMOUNT CAPITAL RESOURCES,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:13PM,PARLO   ,PRACTICE NOTE 17 / GUIDANCE NOTE 3 ,PRACTICE NOTE GUIDANCE NOTE,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:29PM,PBBANK   ,"EMPLOYEES PROVIDENT FUND BOARD (1,771,500 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,PCHEM   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,PCHEM   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:37PM,PCHEM   ,EMPLOYEES PROVIDENT FUND BOARD (EPF BOARD) (2854700 units Transacted) ,EMPLOYEES PROVIDENT FUND BOARD BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:03PM,PENTA   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,PENTA   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (498,900 units Acquired) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:40PM,PESTECH   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,PESTECH   ,"LIM PAY CHUAN (1,930,000 units Disposed) ",CHUAN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,PESTECH   ,"LIM PAY CHUAN (1,930,000 units Disposed) ",CHUAN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:07PM,PETGAS-CO   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:33PM,PETONE   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,PGLOBE   ,Proposed Change of Company Name ,Proposed Change Company Name,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:07PM,PHARMA   ,"LEMBAGA TABUNG ANGKATAN TENTERA (119,500 units Acquired) ",LEMBAGA TABUNG ANGKATAN TENTERA units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:51PM,PHB   ,Change of Address ,Change Address,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:09PM,POS   ,"EMPLOYEES PROVIDENT FUND BOARD (65,800 units Transacted) ",EMPLOYEES PROVIDENT FUND BOARD units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:26PM,PPG   ,"SUM KOWN CHEEK (2,000 units Acquired) ",KOWN CHEEK units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:26PM,PPG   ,"LAI SWEE CHIUNG (2,000 units Acquired) ",SWEE CHIUNG units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:26PM,PPG   ,"SUM KOWN CHEEK (2,000 units Acquired) ",KOWN CHEEK units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:03PM,PRG   ,"WANG JING (104,000 units Acquired) ",WANG JING units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,PRKCORP   ,Submission of annual report for the financial year ended 31 December 2016. ,Submission annual report financial year ended December,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,PRLEXUS   ,General Meetings: Outcome of Meeting ,General Meetings Outcome Meeting,"Sentiment(polarity=0.05000000000000002, subjectivity=0.5)",1
+5:38PM,PRLEXUS   ,General Meetings: Outcome of Meeting ,General Meetings Outcome Meeting,"Sentiment(polarity=0.05000000000000002, subjectivity=0.5)",1
+5:38PM,PRLEXUS   ,1Q net profit 3.270 million (decreased 56.25%) ,profit million decreased,"Sentiment(polarity=-0.4, subjectivity=0.7)",-1
+5:05PM,PRTASCO   ,Appointment of HO CHUN FUAT As Cf ,Appointment CHUN FUAT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:05PM,PRTASCO   ,Appointment of THAM WEI MEI As Others ,Appointment THAM Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,PRTASCO   ,Others of MUHAMMAD HAFIDZI ABU BAKAR As Others ,Others MUHAMMAD HAFIDZI BAKAR Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,PUNCAK   ,MATERIAL LITIGATION ,MATERIAL LITIGATION,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:03PM,PWF   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:02PM,PWF   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:01PM,PWF   ,"LAW HOOI LEAN (70,000 units Acquired) ",HOOI LEAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:01PM,PWF   ,"SIAH GIM ENG (70,000 units Acquired) ",SIAH units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:01PM,PWF   ,"SL GOLD SDN. BHD. (70,000 units Acquired) ",GOLD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:01PM,PWF   ,"LAW HOOI LEAN (70,000 units Acquired) ",HOOI LEAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:01PM,PWF   ,"SIAH GIM ENG (70,000 units Acquired) ",SIAH units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:13PM,SAPNRG   ,"EMPLOYEES PROVIDENT FUND BOARD (1,481,100 units Disposed) ",EMPLOYEES PROVIDENT FUND BOARD units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,SAPNRGC46   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:30PM,SAUDEE   ,"18,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:37PM,SCBUILD   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:57PM,SCGM   ,"3,000 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,SCGM   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (300,000 units Acquired) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:13PM,SCICOM   ,"EMPLOYEES PROVIDENT FUND BOARD (35,000 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:28PM,SEACERA   ,"MANSOR BIN MASIKON (399,700 units Acquired) ",MANSOR MASIKON units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:28PM,SEACERA   ,"ZULKARNIN BIN ARRIFIN (337,300 units Acquired) ",ZULKARNIN ARRIFIN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,SEACERA   ,"NOBLE SUMMER SDN. BHD. (399,700 units Acquired) ",NOBLE SUMMER units Acquired,"Sentiment(polarity=0.6, subjectivity=0.9)",1
+5:27PM,SEACERA   ,"ZULKARNIN BIN ARIFFIN (337,300 units Acquired) ",ZULKARNIN ARIFFIN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,SEACERA   ,"MANSOR BIN MASIKON (399,700 units Acquired) ",MANSOR MASIKON units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+3:17PM,SEACERA   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:37PM,SEEHUP   ,A1 CAPITAL SDN BHD ,CAPITAL,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:35PM,SEEHUP   ,"LEE CHOR MIN (100,000 units Transacted) ",CHOR units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:31PM,SEEHUP   ,"LEE PHAY CHIAN (22,000 units Transacted) ",PHAY CHIAN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:30PM,SEEHUP   ,"LEE HEAN GUAN (3,004,832 units Transacted) ",HEAN GUAN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:26PM,SEEHUP   ,"LEE HEAN HUAT (750,000 units Transacted) ",HEAN HUAT units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+2:16PM,SEEHUP   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+2:16PM,SEEHUP   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:04PM,SERBADK-CA   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:12PM,SHANG   ,"ABERDEEN ASSET MANAGEMENT ASIA LIMITED (4,200 units Disposed) ",ABERDEEN ASSET MANAGEMENT ASIA LIMITED units Disposed,"Sentiment(polarity=-0.07142857142857142, subjectivity=0.14285714285714285)",-1
+5:12PM,SHANG   ,"STANDARD LIFE ABERDEEN PLC (8,400 units Disposed) ",STANDARD LIFE ABERDEEN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:05PM,SIME-C14   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,SIMEPROP   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (1,800,000 units Acquired) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,SINOTOP   ,Current Stock Name : SINOTOP ,Current Stock Name SINOTOP,"Sentiment(polarity=0.0, subjectivity=0.4)",0
+5:56PM,SKPRES   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (5,750,500 units Transacted) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Transacted,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,SMTRACK   ,1Q net profit 0.240 million ,profit million,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:28PM,SPSETIA   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,SPSETIA   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (223,000 units Acquired) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:03PM,SPSETIA-CW   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:21PM,SUNREIT   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,SUNREIT   ,"AMANAHRAYA TRUSTEES BERHAD - AMANAH SAHAM BUMIPUTERA (1,080,100 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,SUNREIT   ,"EMPLOYEES PROVIDENT FUND BOARD (1,538,700 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:40PM,SUNSURIA   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:40PM,SUNSURIA   ,"TER LEONG YAP (45,000 units Acquired) ",LEONG units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:00PM,SUNWAY   ,"322,900 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:42PM,SUNWAY   ,EMPLOYEES PROVIDENT FUND BOARD (88 units Acquired) ,EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:42PM,SUNWAY   ,"EMPLOYEES PROVIDENT FUND BOARD (266,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,SUPERMX-C29   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:14PM,SYCAL   ,NEW ISSUE OF SECURITIES (CHAPTER 6 OF LISTING REQUIREMENTS) ,ISSUE SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:19PM,SYCAL   ,"ACE CREDIT (M) SDN BHD (11,000 units Disposed) ",CREDIT units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:19PM,SYCAL   ,"WEST EMERALD ISLE SDN BHD (27,000,000 units Acquired) ",WEST EMERALD ISLE units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:44PM,TAANN   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:40PM,TAANN   ,MONTHLY PRODUCTION FIGURES (MINING / PLANTATION / TIMBER) ,MONTHLY PRODUCTION FIGURES MINING PLANTATION TIMBER,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:33PM,TASEK   ,"STANDARD LIFE ABERDEEN PLC AND ITS SUBSIDIARIES (8,900 units Acquired) ",STANDARD LIFE ABERDEEN SUBSIDIARIES units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:20PM,TCHONG   ,Others of KHOR SWEE WAH @ KOH BEE LENG As Executive Director ,Others KHOR SWEE LENG Executive Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,TCHONG   ,"TAN HENG CHEW (20,000 units Acquired) ",HENG CHEW units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,TCHONG   ,"KHOR SWEE WAH @ KOH BEE LENG (20,000 units Acquired) ",KHOR SWEE LENG units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:21PM,TGUAN   ,"ANG POON KHIM (88,104 units Transferred) ",POON KHIM units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:21PM,TGUAN   ,"ANG POON SEONG (176,208 units Transferred) ",POON SEONG units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,TGUAN   ,"ANG POON CHUAN (88,104 units Transferred) ",POON CHUAN units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:21PM,TGUAN-LA   ,"ANG POON SEONG (95,062 units Transferred) ",POON SEONG units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,TGUAN-LA   ,"ANG POON KHIM (47,531 units Transferred) ",POON KHIM units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,TGUAN-LA   ,"ANG POON CHUAN (47,531 units Transferred) ",POON CHUAN units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:21PM,TGUAN-WA   ,"ANG POON SEONG (47,532 units Transferred) ",POON SEONG units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,TGUAN-WA   ,"ANG POON KHIM (23,766 units Transferred) ",POON KHIM units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:16PM,TGUAN-WA   ,"ANG POON CHUAN (23,766 units Transferred) ",POON CHUAN units Transferred,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:11PM,THPLANT   ,"EMPLOYEES PROVIDENT FUND BOARD (199,300 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:31PM,TITIJYA   ,MULTIPLE PROPOSALS ,MULTIPLE PROPOSALS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+4:14PM,TM   ,"AMANAHRAYA TRUSTEES BERHAD-AMANAH SAHAM BUMIPUTERA (383,400 units Disposed) ",AMANAHRAYA TRUSTEES BERHAD AMANAH SAHAM BUMIPUTERA units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+3:55PM,TMCLIFE   ,TMCLIFE - Notice of Book Closure ,TMCLIFE Notice Book Closure,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:44PM,TOPGLOV   ,"EMPLOYEES PROVIDENT FUND BOARD (736,600 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:04PM,TOPGLOV-C17   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:56PM,TROP   ,TRANSACTIONS (CHAPTER 10 OF LISTING REQUIREMENTS) ,TRANSACTIONS CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+9:47AM,UCREST   ,Additional Listing Announcement ,Additional Listing Announcement,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:47PM,UEMS   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:25PM,UEMS   ,"LEMBAGA TABUNG HAJI (240,000 units Acquired) ",LEMBAGA TABUNG HAJI units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,UEMS-C47   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:18PM,UMW   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,UMW   ,Appointment of LIM TZE SEONG As Director ,Appointment SEONG Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:17PM,UMW   ,Resignation of ROHAYA BINTI MOHAMMAD YUSOF As Director ,Resignation ROHAYA BINTI MOHAMMAD YUSOF Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:16PM,UMW   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (KWAP) (120,000 units Disposed) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN KWAP units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:16PM,UMW   ,Resignation of FADZILAH BINTI SAMION As Others ,Resignation FADZILAH BINTI SAMION Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:16PM,UMW   ,Appointment of MOHD NOR AZAM BIN MOHD SALLEH As Others ,Appointment MOHD AZAM MOHD SALLEH Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:59PM,UMWOG-C18   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:05PM,UNIMECH   ,"25,400 shares purchased into treasury ",shares purchased into treasury,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:06PM,UOADEV   ,"EMPLOYEES PROVIDENT FUND BOARD (EPF BOARD) (49,900 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:09PM,UTDPLT   ,"JEREMY DEREK CAMPBELL DIAMOND (3,200 units Acquired) ",JEREMY DEREK CAMPBELL DIAMOND units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+12:36PM,VERTICE   ,WINDING UP / RECEIVER & MANAGER / RESTRAINING ORDER / SPECIAL ADMINISTRATOR ,WINDING RECEIVER MANAGER RESTRAINING ORDER SPECIAL ADMINISTRATOR,"Sentiment(polarity=0.35714285714285715, subjectivity=0.5714285714285714)",1
+5:04PM,VITROX   ,DEALINGS IN LISTED SECURITIES (CHAPTER 14 OF LISTING REQUIREMENTS) ,DEALINGS LISTED SECURITIES CHAPTER LISTING REQUIREMENTS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:08PM,VS   ,"KUMPULAN WANG PERSARAAN (2,303,900 units Acquired) ",KUMPULAN WANG PERSARAAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:29PM,VSOLAR   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:29PM,VSOLAR   ,Resignation of KHOO CHEE SIANG As Others ,Resignation KHOO CHEE SIANG Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:29PM,VSOLAR   ,Resignation of KHOO CHEE SIANG As Others ,Resignation KHOO CHEE SIANG Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:28PM,VSOLAR   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:27PM,VSTECS   ,Redesignation of FOO SEN CHIN As Others ,Redesignation CHIN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:10PM,WCT   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (695,000 units Disposed) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Disposed,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:01PM,WPRTS   ,OTHERS ,OTHERS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:50PM,WPRTS   ,Resignation of TAI YIT CHAN As Joint Secretary ,Resignation CHAN Joint Secretary,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:50PM,WPRTS   ,Appointment of IZREEN FARA BINTI ISMAIL As Joint Secretary ,Appointment IZREEN FARA BINTI ISMAIL Joint Secretary,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:47PM,WPRTS   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:47PM,WPRTS   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:47PM,WPRTS   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:46PM,WPRTS   ,Change in Nomination Committee ,Change Nomination Committee,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:39PM,WPRTS   ,Appointment of CHAN CHU WEI As Others ,Appointment CHAN Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:38PM,WPRTS   ,Cessation of JEYAKUMAR PALAKRISHNAR As Others ,Cessation JEYAKUMAR PALAKRISHNAR Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:32PM,WPRTS   ,Appointment of CHAN SOO CHEE As Others ,Appointment CHAN CHEE Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:32PM,WPRTS   ,Resignation of JOHN STEPHEN ASHWORTH As Alternate Director ,Resignation JOHN STEPHEN ASHWORTH Alternate Director,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:31PM,WPRTS   ,Resignation of JEYAKUMAR A/L T PALAKRISHNAR As Others ,Resignation JEYAKUMAR PALAKRISHNAR Others,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+4:16PM,WZSATU   ,WZSATU - Notice of Book Closure ,WZSATU Notice Book Closure,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:05PM,YINSON   ,"EMPLOYEES PROVIDENT FUND BOARD (228,200 units Acquired) ",EMPLOYEES PROVIDENT FUND BOARD units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:05PM,YINSON   ,"KUMPULAN WANG PERSARAAN (DIPERBADANKAN) (1,000,000 units Acquired) ",KUMPULAN WANG PERSARAAN DIPERBADANKAN units Acquired,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:30PM,YONGTAI   ,MULTIPLE PROPOSALS ,MULTIPLE PROPOSALS,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:13PM,YTL-C11   ,Expiry/Maturity of the securities ,Expiry Maturity securities,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+6:04PM,YTL-C8   ,STRUCTURED WARRANTS ANNOUNCEMENT ,STRUCTURED WARRANTS ANNOUNCEMENT,"Sentiment(polarity=0.0, subjectivity=0.0)",0
+5:47PM,YTLREIT   ,NET ASSET VALUE / INDICATIVE OPTIMUM PORTFOLIO VALUE ,ASSET VALUE INDICATIVE OPTIMUM PORTFOLIO VALUE,"Sentiment(polarity=0.7, subjectivity=0.9)",1
